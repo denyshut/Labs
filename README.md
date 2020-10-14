@@ -4,3 +4,4 @@
 ***
 **3.** hash 1st commit 41a249ea993792f75fdadf0539c8954930b042ef command : git log
 ***
+**5.** Змін немає тому що працював в гілці newbranch.
