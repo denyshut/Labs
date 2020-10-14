@@ -12,3 +12,5 @@
 ***
 **9.** Не відбулось ніяк змін тому що веб-версія не синхронізована з локальною для синхронізації використав команду git pull origin main 
 ***
+**10.** ![alt text](https://lh3.googleusercontent.com/proxy/P8A00Ic9l7CSMYkx13wACKqUyrq6ET7X02Z0ot-k775F6Bn7V98SueZhfiTO2haAcLBMKQPA7DAV5oXYxj-wMMni7IWpWkg9n7rDD6Y7IBbLlVO0jGXwiun0bfdp7rkZE-1X8BoyYXuuj29mmZIkImTDz0EQp2vWthtLfrKEjEay4Y1tE93WgB_ZoOntbL0DfOKxCAxs37V9dWdeHWgpLm3Tgf14W5l8YPK9TRBM38B9R52qW9E7D3y-Fepr-1YgzaGy6PXhV4C_ZQYCg7AL7PJqSiKKTVm_wdFK2MtVzaqlHW5pIXWGjv_cwwj86Tq5opZmxz11XyImxapv7Zbg0U322gAGVoZxTeik8gq6IgfpRJ3edGZhyrZv_LsV)
+***
